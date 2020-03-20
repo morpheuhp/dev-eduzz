@@ -6,3 +6,6 @@ Telefone: 15 99801-3524
 Projeto foi desenvolvido em 15 horas, utilizando-se de única ferramenta externa PHPMailer para envio de e-mails.
 Todos os códigos foram desenvolvidos do zero com exceção do PHPMailer que é utilizado para envio dos e-mails., exclusivamente para o propósito único e exclusivo de mostrar 
 tempo de programação, organização de código, criatividade, formatação e habilidades com HTML, CSS, Linux e MySql.
+
+
+Para instalar o projeto via composer: composer require morpheuhp/dev-eduzz
