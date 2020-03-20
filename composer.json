@@ -1,6 +1,5 @@
 {
-   
-    "name": "morpheuhp/dev-eduzz",
+   "name": "morpheuhp/dev-eduzz",
     "type": "library",
     "description": "Vaga de desenvolvedor",
     "keywords": ["log","logging"],
@@ -15,11 +14,7 @@
         }
     ],
     "require": {
-        "php": ">=5.3.0"
-    },
-    "autoload": {
-        "psr-0": {
-            "Monolog": "src"
-        }
+        "php": ">=5.3.0",
+       "morpheuhp/dev-eduzz":"*"
     }
- }
+}
