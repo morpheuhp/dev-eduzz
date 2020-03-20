@@ -1,0 +1,51 @@
+/* 
+    Created on : 18 de mar de 2020, 15:39:47
+    Author     : Fernando M. Camacho
+    E-mail     : fernando@fmsistemas.net
+*/
+
+/**
+Tira toda configuração do navegador para poder utilizar o css correto da página 
+*/
+*{
+    font-family: Verdana;
+    font-size:12px;
+    padding:0;
+    margin:0;
+}
+
+.menu{
+    width: 100%;
+}
+.menu td{
+    cursor: pointer;
+    text-align: center;
+    padding:10px;
+    border:1px solid black
+}
+.menu td:hover{
+    background: #ccffcc;
+}
+
+.ultimovalor{
+    font-weight: bold; font-size:18px;
+}
+
+#ultimo{
+    width: 280px;
+    background-color: #ffffcc
+        
+}
+
+.numero{
+    text-align: right;
+    padding-right: 5px;
+}
+.extrato th{
+    background-color: silver;
+    font-weight: bold;
+    padding:10px;
+}
+.extrato td{
+    padding:5px;
+}
