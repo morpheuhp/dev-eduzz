@@ -1,0 +1,8 @@
+{
+    "name": "morpheuhp/dev-eduzz",
+    "description": "Projeto para vaga de desenvolvedor",
+    "require": {
+        "php": "^5.3",
+        "vendor/": "*"
+    }
+}
